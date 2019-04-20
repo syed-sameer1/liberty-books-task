@@ -1,0 +1,470 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* header */
+
+/* black */
+
+div#hblack {
+    border: 1px solid black;
+    background-color: black;
+}
+
+div#black1 {
+    border: 1px solid black;
+    float: left;
+    margin: 10px 50px 10px 150px;
+    color: white;
+    background-color: black;
+}
+
+div#black2 {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 0px;
+    height: 18px;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    margin: 0px 40px 0px 50px;
+    background-color: black;
+}
+
+div#black3 {
+    margin: 10px 0px 10px 800px;
+    color: white;
+    background-color: black;
+}
+
+ul#black1 {
+    list-style-type: none;
+    display: inline;
+}
+
+li#black1 {
+    float: left;
+    margin: 0px 10px;
+}
+
+span#black1 {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+button#black {
+    background-color: white;
+    color: rgb(219, 33, 52);
+    border-color: black;
+    border-radius: 10px 5px 10px 5px;
+    height: 20px;
+    width: 30px;
+}
+
+/* black */
+
+/* red */
+
+div#hred {
+    border: 1px solid rgb(219, 33, 52);
+    height: 100px;
+    background-color: rgb(219, 33, 52);
+}
+
+div#red1 {
+    border: 1px solid rgb(219, 33, 52);
+    float: left;
+    height: 55px;
+    margin: 20px 20px 20px 200px;
+}
+
+div#red2 {
+    border: 1px solid rgb(219, 33, 52);
+    float: left;
+    height: 55px;
+    text-align: center;
+    background-color: rgb(219, 33, 52);
+    margin: 30px 0px 10px 0px;
+}
+
+div#red3 {
+    border: 1px solid rgb(219, 33, 52);
+    float: left;
+    height: 55px;
+    background-color: rgb(219, 33, 52);
+    margin: 30px 0px 10px 20px;
+}
+
+input#red {
+    height: 35px;
+    width: 250px;
+    border: 1px solid black;
+    border-right: 1px solid rgb(219, 33, 52);
+    border-radius: 30px 0px 0px 30px;
+    padding-left: 15px;
+    font-weight: bold;
+    color: gray;
+}
+
+button#red1 {
+    height: 39px;
+    width: 45px;
+    margin: 0px 0px;
+    border: 1px solid rgb(219, 33, 52);
+    border-radius: 0px 30px 30px 0px;
+    background-color: white;
+}
+
+button#red2 {
+    height: 39px;
+    width: 90px;
+    background-color: white;
+    color: rgb(219, 33, 52);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 0px;
+    border-right: 2px solid rgb(219, 33, 52);
+}
+
+button#red3 {
+    height: 39px;
+    width: 250px;
+    border-radius: 30px;
+    border: 1px solid rgb(71, 71, 71);
+    background-color: transparent;
+    color: white;
+    padding-left: 80px;
+    font-weight: bold;
+}
+
+div#bred1 {
+    float: right;
+}
+
+div#bred2 {
+    float: right;
+}
+
+/* red */
+
+/* grey */
+
+div#hgrey {
+    border: 1px solid rgb(241, 241, 241);
+    height: 40px;
+    padding: 0px 140px 0px 150px;
+    background-color: rgb(241, 241, 241);
+    position: sticky;
+    top: 0;
+}
+.stickme{
+    position: fixed;
+    top:0px;
+}
+
+div#grey1 {
+    width: 45px;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+    float: left;
+    border-left: 1px solid rgb(219, 33, 52);
+}
+
+div#grey2 {
+    border-left: 1px solid rgb(219, 33, 52);
+    border-right: 1px solid rgb(219, 33, 52);
+    text-align: center;
+    color: rgb(219, 33, 52);
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    margin: 0px;
+    height: 30px;
+    width: 250px;
+    padding-top: 10px;
+    float: left;
+}
+
+div#grey1:hover {
+    background-color: rgb(219, 33, 52);
+    color: white;
+}
+
+div#grey2:hover {
+    background-color: rgb(219, 33, 52);
+    color: white;
+} 
+
+/* grey */
+
+/* header */
+
+/* m */
+
+div#m {
+    border: 1px solid rgb(247, 247, 247);
+    background-color: rgb(247, 247, 247);
+    height: 30px;
+    padding: 15px 150px 0px 150px;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(73, 73, 73);
+    margin: 10px 0px;
+}
+
+span#m1:hover {
+    color: rgb(219, 33, 52);
+    cursor: pointer;
+}
+
+span#m2:hover {
+    color: rgb(219, 33, 52);
+    cursor: pointer;
+}
+
+/* m */
+
+/* main */
+
+/* detal */
+
+div#hdetail {
+    /* border: 1px solid black; */
+    height: 700px;
+    padding: 20px 0px 100px 180px;
+}
+
+div#vhdetail {
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+
+div#detail1 {
+    border: 1px solid rgb(247, 247, 247);
+    background-color: rgb(247, 247, 247);
+    height: 20px;
+    padding: 8px;
+    display: inline-block;
+    width: 750px;
+    margin: 10px 20px 20px 0px;
+}
+
+span#d1 {
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+}
+
+span#d2 {
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    color: rgb(219, 33, 52);
+}
+
+/* table */
+
+img#d {
+    height: 400px;
+}
+
+div#min {
+    display: inline-block;
+    border: 1px solid rgb(219, 33, 52);
+    background-color: rgb(219, 33, 52);
+    color: white;
+    font-size: 20px;
+    width: 80px;
+    height: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+div#min2 {
+    display: inline-block;
+    border: 1px solid yellow;
+    background-color: rgb(255, 238, 0);
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+div#plu {
+    /* border: 1px solid black; */
+    display: inline-block;
+    float: left;
+}
+
+div#plu1 {
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    height: 15px;
+    width: 20px;
+    padding: 15px;
+    float: left;
+    border-radius: 30px 0px 0px 30px;
+}
+
+div#plu2 {
+    border: 1px solid rgb(236, 236, 236);
+    display: inline-block;
+    float: left;
+    height: 15px;
+    padding: 15px 30px;
+}
+
+div#plu3 {
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    height: 15px;
+    width: 20px;
+    padding: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+
+div#plu4 {
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    height: 15px;
+    width: 130px;
+    padding: 15px 75px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 20px;
+}
+
+div#plu1:hover {
+    border: 1px solid rgb(219, 33, 52);
+    display: inline-block;
+    background-color: rgb(219, 33, 52);
+    height: 15px;
+    width: 20px;
+    padding: 15px;
+    float: left;
+    border-radius: 30px 0px 0px 30px;
+    cursor: pointer;
+}
+
+div#plu3:hover {
+    border: 1px solid rgb(219, 33, 52);
+    display: inline-block;
+    background-color: rgb(219, 33, 52);
+    height: 15px;
+    width: 20px;
+    padding: 15px;
+    border-radius: 0px 30px 30px 0px;
+    cursor: pointer;
+}
+
+div#plu4:hover {
+    border: 1px solid rgb(219, 33, 52);
+    display: inline-block;
+    background-color: rgb(219, 33, 52);
+    height: 15px;
+    width: 130px;
+    padding: 15px 75px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 20px;
+}
+
+div#heart {
+    border: 1px solid rgb(247, 247, 247);
+    background-color: rgb(247, 247, 247);
+    font-size: 12px;
+    height: 18px;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+span#rev {
+    color: cadetblue;
+    font-size: 12px;
+}
+
+span#rev:hover {
+    color: rgb(219, 33, 52);
+    font-size: 12px;
+    cursor: pointer;
+}
+
+/* table */
+
+/* detal */
+
+/* des */
+
+div#hdes {
+    margin-top: 100px;
+    /* border: 1px solid black; */
+}
+
+button#des {
+    border: 1px solid black;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    padding: 10px;
+    margin: 0px;
+}
+
+button#des:hover {
+    background-color: rgb(219, 33, 52);
+    border: 1px solid rgb(219, 33, 52);
+    transition: 0.3s;
+}
+
+table#des2 {
+    width: 800px;
+    background-color: rgb(244, 244, 244);
+    height: 15px;
+    padding: 10px;
+}
+
+/* des */
+
+/* main */
+
+/* footer */
+
+div#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div#foo1 {
+    display: inline-block;
+    /* border: 1px solid white; */
+    text-align: left;
+}
+
+div#foo2 {
+    display: inline-block;
+    /* border: 1px solid white; */
+    text-align: left;
+}
+
+div#foo3 {
+    display: inline-block;
+    /* border: 1px solid white; */
+    margin: 10px;
+    text-align: left;
+}
+div#foo4{
+    height: 10px;
+    padding: 20px;
+    font-size: 12px;
+}
+
+/* footer */
